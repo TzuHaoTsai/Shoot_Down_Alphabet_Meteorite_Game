@@ -3,4 +3,4 @@
 ## Tools
 Processing IDE : https://processing.org/
 
-"Project/Project.pde" is main function.
+"Project/Project.pde" is main function and open it.
